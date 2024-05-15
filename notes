@@ -1,0 +1,3 @@
+how to install Redux
+npm install react-redux@8
+npm install @reduxjs/toolkit
